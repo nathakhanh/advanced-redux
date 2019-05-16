@@ -9,7 +9,7 @@ This application is a fully functional messenger application similar to Slack or
 - Immutable State
 - Live server updates with websockets
 - Redux-Saga
-- More!
+- More!!
 ### How to Use This Application
 - This application is meant as a reference for students completing Advanced Redux on Pluralsight
 - Developers who are already familiar with the technology are welcome to copy the application and make any desired changes
